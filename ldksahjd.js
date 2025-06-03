@@ -1,1 +1,1 @@
-$('body').css('visibility', 'hidden');
+// $('body').css('visibility', 'hidden');
